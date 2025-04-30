@@ -1,0 +1,6 @@
+report01.md Массивные формулы и динамические массивы
+report02.md Нестандартные_формулы_и_пользовательские_функции
+report03.md Массивы
+report04.md FILTER
+report05.md UNIQUE
+report06.md XLOOKUP
