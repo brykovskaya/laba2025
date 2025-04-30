@@ -1,0 +1,6 @@
++ - особенности Hadoop
++ - HDFS
++ - Hive
++ - Spark с Hadoop и работа с большими данными
++ - Другие компоненты Hadoop экосистемы
++ - Проект аналитики данных с использованием HDFS, Spark и Hive в Jupyter Notebook

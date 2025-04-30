@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744546645378
+current_stage: None
+description: null
+last_updated_timestamp: 1744546645378
+name: LogisticRegressionModel
+run_id: 43bf32eaed7c4ac6a6b3848d23a215c2
+run_link: null
+source: file:///C:/Users/79181/aston_repos/n.brykovskaya/module_3/1Arch_and_data_modeling/5_Data_modeling_ML/mlruns/0/43bf32eaed7c4ac6a6b3848d23a215c2/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/79181/aston_repos/n.brykovskaya/module_3/1Arch_and_data_modeling/5_Data_modeling_ML/mlruns/0/43bf32eaed7c4ac6a6b3848d23a215c2/artifacts/logistic_regression_model
+user_id: null
+version: 1

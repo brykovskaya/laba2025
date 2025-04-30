@@ -1,0 +1,14 @@
+CREATE TABLE students (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255),
+    age INTEGER
+);
+ALTER TABLE students
+ADD COLUMN email VARCHAR(255) UNIQUE;
+ALTER TABLE students
+ALTER COLUMN age TYPE SMALLINT;
+ALTER TABLE students
+    RENAME COLUMN name TO full_name;
+ALTER TABLE students
+ALTER COLUMN full_name
+SET NOT NULL;
